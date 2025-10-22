@@ -17,17 +17,17 @@ With 4 + years of data-driven experience across e-commerce, education, and analy
 
 ### 💼 Experience Highlights  
 
-#### **Seattle University — Research Assistant (2024 – 2025)**
+#### **Seattle University — Research Assistant**
 - Built a full Database Management course with 9 modules, SQL assignments, and recorded lectures.  
 - Mentored 20 + capstone teams on analytics and modeling projects with real industry partners.   
 - Organized events bridging students and industry.
 
-#### **Amazon — Senior Account Management Associate (2022 – 2023)**
+#### **Amazon — Senior Account Management Associate**
 - Led ASIN suppression recovery for 7 premium sellers, unlocking seller blocked capital.  
 - Authored the SOP for suppression workflows and trained sellers through webinars.  
 - Built BI dashboards tracking weekly reinstatements, category trends, and performance metrics.  
 
-#### **Meesho & Cloudtail — Vendor Management Lead (2019 – 2022)**
+#### **Meesho & Cloudtail — Vendor Management Lead)**
 - Doubled Men’s Fashion category sales and won the CEO Award for business impact.  
 - Onboarded 40 + vendors, achieving 114 % of SKU targets (48 K vs 42 K goal).  
 - Collaborated with the software team to migrate workflows into Salesforce.  
