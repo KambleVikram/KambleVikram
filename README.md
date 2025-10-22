@@ -27,7 +27,7 @@ With 4 + years of data-driven experience across e-commerce, education, and analy
 - Authored the SOP for suppression workflows and trained sellers through webinars.  
 - Built BI dashboards tracking weekly reinstatements, category trends, and performance metrics.  
 
-#### **Meesho & Cloudtail — Vendor Management Lead)**
+#### **Meesho & Cloudtail — Vendor Management Lead**
 - Doubled Men’s Fashion category sales and won the CEO Award for business impact.  
 - Onboarded 40 + vendors, achieving 114 % of SKU targets (48 K vs 42 K goal).  
 - Collaborated with the software team to migrate workflows into Salesforce.  
