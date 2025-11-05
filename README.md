@@ -1,5 +1,5 @@
 ## 🧠 Hi, I’m Vikram  
-**(Turning 1.51 Million seconds of focus into data stories that drive decisions 📊)**  
+**(Turning 1.67 Million seconds of focus into data stories that drive decisions 📊)**  
 
 **Data Analyst | Business Analytics | SQL • Python • Power BI**  
 
@@ -37,7 +37,7 @@ With 4 + years of data-driven experience across e-commerce, education, and analy
 ### 📊 Projects  
 
 #### 🧘‍♂️ **Meditation Insights Dashboard | Power BI, Python**
-Analyzed **1.51M+ seconds** of self-tracked meditation data across 313 days to study focus and consistency.  
+Analyzed **1.67M+ seconds** of self-tracked meditation data across 322 days to study focus and consistency.  
 Revealed trends in peak practice times, seasonal patterns, and weekday behavior, turning mindfulness into measurable data storytelling.  
 
 #### 🎬 **Netflix User Behavior Analysis | SQL, Power BI**
@@ -62,7 +62,7 @@ Received client recognition for design clarity and prototype quality.
 ---
 
 ### 🎯 Strengths & Philosophy  
-I bring the same consistency that helped me log **1.51 M + seconds of meditation** into every data project.  
+I bring the same consistency that helped me log **1.67 M + seconds of meditation** into every data project.  
 Whether it’s building a dashboard or mentoring students, my goal is to make data **accessible, actionable, and authentic**.  
 
 ---
