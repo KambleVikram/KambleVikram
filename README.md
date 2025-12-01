@@ -4,7 +4,7 @@
 **Data Analyst | Business Analytics | SQL • Python • Power BI**  
 
 I’m passionate about turning raw data into clear business stories that inspire better decisions.  
-With 4 + years of data-driven experience across e-commerce, education, and analytics, I’ve worked on everything from recovering blocked Amazon seller capital to designing university data courses and building dashboards that make insights easy to act on.  
+With 7+ years of data-driven experience across e-commerce, education, and analytics, I’ve worked on everything from recovering blocked Amazon seller capital to designing university data courses and building dashboards that make insights easy to act on.  
 
 ---
 
