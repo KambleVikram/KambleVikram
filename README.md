@@ -13,27 +13,6 @@ With 7+ years of data-driven experience across e-commerce, education, and analyt
 - **Process Optimization:** Identifying bottlenecks in operations, building documentation and SOP workflows around them.  
 - **Analytical Storytelling:** Explaining trends with clarity, bridging business and technical teams.  
 
----
-
-### 💼 Experience Highlights  
-
-#### **Seattle University — Research Assistant**
-- Built a full Database Management course with 9 modules, SQL assignments, and recorded lectures.  
-- Mentored 20 + capstone teams on analytics and modeling projects with real industry partners.   
-- Organized events bridging students and industry.
-
-#### **Amazon — Senior Account Management Associate**
-- Led ASIN suppression recovery for 7 premium sellers, unlocking seller blocked capital.  
-- Authored the SOP for suppression workflows and trained sellers through webinars.  
-- Built BI dashboards tracking weekly reinstatements, category trends, and performance metrics.  
-
-#### **Meesho & Cloudtail — Vendor Management Lead**
-- Doubled Men’s Fashion category sales and won the CEO Award for business impact.  
-- Onboarded 40 + vendors, achieving 114 % of SKU targets (48 K vs 42 K goal).  
-- Collaborated with the software team to migrate workflows into Salesforce.  
-
----
-
 ### 📊 Projects  
 
 #### 🧘‍♂️ **Meditation Insights Dashboard | Power BI, Python**
